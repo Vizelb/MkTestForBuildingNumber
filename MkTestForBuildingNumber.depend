@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1691158942 source:d:\codeblocks projects\mktestforbuildingnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1691162652 source:d:\codeblocks projects\mktestforbuildingnumber\src\contacts.c
+	"../inc/Contacts.h"
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+
+1691161661 d:\codeblocks projects\mktestforbuildingnumber\inc\contacts.h
+
